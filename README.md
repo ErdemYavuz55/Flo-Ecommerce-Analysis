@@ -36,7 +36,7 @@ The analysis employs the following key data analysis and machine learning techni
 - Exploratory Data Analysis (EDA)
 - Customer segmentation using RFM (Recency, Frequency, Monetary) analysis
 - Clustering analysis (e.g., K-means)
-
+- Churn Prediction
 
 ## Results and Findings
 Summarize key insights obtained from the data analysis and the significance of the findings.
