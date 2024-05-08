@@ -37,6 +37,7 @@ The analysis employs the following key data analysis and machine learning techni
 - Customer segmentation using RFM (Recency, Frequency, Monetary) analysis
 - Clustering analysis (e.g., K-means)
 - Churn Prediction
+- Time Series ile Müşteri Artışı Tahminleme (in progress)
 
 ## Results and Findings
 Summarize key insights obtained from the data analysis and the significance of the findings.
